@@ -10,7 +10,7 @@ I mainly study of game development, and mostly on learning how to make video gam
 I usually use Unity to create my games,
 and also I have developed some non-open-source .NET, C++, Java projects.
 
-##About Me
+## About Me
 
 我是一个来自中国江苏省常州市的初三中学生，热爱编程，主要进行游戏开发和.NET应用开发，所以我的主打编程语言是C#。
 目前我已使用Unity开发了许多小游戏.
@@ -22,7 +22,7 @@ Now I have developed many mini games by using Unity.
 I do my development work and solve problems with Windows OS to use Visual Studio, which only runs on both Windows and macOS.
 Besides C#, I also write C++, Java, JavaScript and Python.
 
-##Contact Me
+## Contact Me
 
 可访问BiliBili个人空间：https://space.bilibili.com/667429445?spm_id_from=333.337.0.0
 visit my BiliBili personal space : https://space.bilibili.com/667429445?spm_id_from=333.337.0.0
