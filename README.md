@@ -24,6 +24,6 @@ Besides C#, I also write C++, Java, JavaScript and Python.
 
 ## Contact Me
 
-1.可访问BiliBili个人空间：https://space.bilibili.com/667429445?spm_id_from=333.337.0.0
-2.Visit my BiliBili personal space : https://space.bilibili.com/667429445?spm_id_from=333.337.0.0
+可访问BiliBili个人空间：https://space.bilibili.com/667429445?spm_id_from=333.337.0.0                                               
+Visit my BiliBili personal space : https://space.bilibili.com/667429445?spm_id_from=333.337.0.0
 
