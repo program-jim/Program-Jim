@@ -17,7 +17,7 @@ and also I have developed some non-open-source .NET, C++, Java projects.
 我使用Windows操作系统进行软件应用的开发（为了使用Visual Studio），并解决软件应用问题。
 除了写C#，我还写C++，Java，JavaScript和Python。
 
-I am a middle school student from Changzhou, Jiangsu, China. I love programming a lot and mainly work on game development and .NET applications, so my favorite programming language is C#.
+I'm a middle school student from Changzhou, Jiangsu, China. I love programming a lot and mainly work on game development and .NET applications, so my favorite programming language is C#.
 Now I have developed many mini games by using Unity.
 I do my development work and solve problems with Windows OS to use Visual Studio, which only runs on both Windows and macOS.
 Besides C#, I also write C++, Java, JavaScript and Python.
