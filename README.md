@@ -27,6 +27,6 @@ Besides C#, I also write C++, Java and Python.
 可访问BiliBili个人空间：https://space.bilibili.com/667429445?spm_id_from=333.337.0.0                                               
 Visit my BiliBili personal space : https://space.bilibili.com/667429445?spm_id_from=333.337.0.0                                              
 我的电子邮箱：3860759270@qq.com                                               
-My e-mail: 3860759270@qq.com
-我的个人网站：https://program-jim.netlify.app
-My personal website: https://program-jim.netlify.app/
+My e-mail: 3860759270@qq.com                                               
+我的个人网站：https://program-jim.netlify.app                                               
+My personal website: https://program-jim.netlify.app/                                               
