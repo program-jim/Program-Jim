@@ -19,5 +19,6 @@ BiliBili: https://space.bilibili.com/667429445?spm_id_from=333.1007.0.0 <br>
 Rednote: https://www.xiaohongshu.com/user/profile/67f50984000000000e01f049 <br>
 YouTube: https://www.youtube.com/@Program-Jim <br>
 TikTok: https://www.tiktok.com/@mikejirison <br>
+VK: https://vk.com/mikejirison
 
 <br> My personal website: https://program-jim.netlify.app/
