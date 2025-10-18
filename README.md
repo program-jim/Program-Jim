@@ -16,7 +16,7 @@ Besides GDScript and C#, I also write C++, Java and Python. <br>
 ### NOTE: Due to laws of Internet management in China Mainland, YouTube, TikTok are not recommended.<br> Please use BiliBili or Rednote instead.
 
 BiliBili: https://space.bilibili.com/667429445 <br>
-Rednote: https://www.xiaohongshu.com/user/profile/67f50984000000000e01f049 <br>
+Rednote: https://xhslink.com/m/AGLNDzgc3bW <br>
 YouTube: https://www.youtube.com/@Program-Jim <br>
 TikTok: https://www.tiktok.com/@mikejirison <br>
 VK: https://vk.com/mikejirison
